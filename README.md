@@ -44,6 +44,11 @@ When filing a feature request, it's important to include:
 ### Saving changes to your code on your computer
 
 ### Editing files in the browser
+Why edit your code in the browser?
+    - Convenience: Modify your code from virtually any device! If you're using a public computer, own a device without the bandwidth to download the project or simply want to use smaller devices like iPads and tablets, coding from the web may be for you.
+        - As a bonus, everything autosaves on the web, so feel free to step away and return to your project without fear of losing your hard work!
+    - Privacy: Concerned about the privacy and security risks associated with downloading to your personal device? Working in the browser may be the route for you!
+    - Sustainability: You can turn off the VM, which both saves energy and potentially saves you money (learn more below)
 
 ## Submitting a pull request to resolve an issue
 
