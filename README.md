@@ -37,6 +37,9 @@ When filing a feature request, it's important to include:
 - a description of the change or new feature you'd like to see
 - why you think it is beneficial to the project
 
+### Configuring Issue Template 
+stuff over here
+
 ## Checking out and modifying your own copy of the code
 
 ### Downloading your own copy of the code
