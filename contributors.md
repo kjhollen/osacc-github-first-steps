@@ -1,4 +1,4 @@
-** OSACC Github session contributors directory
+*** OSACC Github session contributors directory ***
 
 Feel free to add yourself if you want, just a fun list :)
 
