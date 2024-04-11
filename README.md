@@ -38,6 +38,16 @@ When filing a feature request, it's important to include:
 - why you think it is beneficial to the project
 
 ## Checking out and modifying your own copy of the code
+1. [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your computer 
+2. Create a directory folder on your computer (example: Desktop) 
+3. Navigate to your directory in your terminal (cd command)
+4. On the Github repository page, click on the green Code button, and copy the HTTPS url address 
+5. Back in terminal, write the following command:
+```
+git clone [insert HTTP url address here]
+```
+6. Now that your github repo is cloned to your local computer, open the cloned local folder using your code editor of choice (example: VSCode, IntelliJ)
+7. Start making some changes to the code 
 
 ### Downloading your own copy of the code
 
