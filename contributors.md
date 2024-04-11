@@ -1,6 +1,6 @@
-*** OSACC Github session contributors directory ***
+* OSACC Github session contributors directory *
 
-Feel free to add yourself if you want, just a fun list :)
+Feel free to add an entry if you want to share something about yourself.  Just for fun :)
 
 # Contributors
 
