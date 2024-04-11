@@ -13,16 +13,23 @@ Issues are used to track bugs, feature requests, and other tasks in a project.
 Community members may be assigned an issue, indicating that they are responsible for fixing or otherwise taking care of it.
 Issues may also be organized using labels—sometimes, a project may have a label to help new contributors find issues that are easier to fix to encourage them to join the project.
 
+![Repository issue tab](./images/issue_bar.png)
+![List of issues on a Github repository](./images/issues.png)
+
 ### Searching Existing Issues
 You can view existing issues under the Issues tab.
 Browsing open issues is a great way to get to know a project.
 If you think you've found a bug in a project, it's a good idea to search the open issues to see if anyone else has already reported the issue.
 This not only prevents you from filing a duplicate issue (creating more work for the maintainer of the project), but also may allow you to find a workaround to the issue submitted by another community member before a solution is published by the maintainers.
 
+![Process of filtering issues on Github](./images/search_filter.gif)
+
 ### Filing an issue
 
 To open a new issue, click on the Issues tab and then find the green New Issue button.
 Write a description of your proposed changes or the bug that you found.
+
+![Github new issue view](./images/new_issue.png)
 
 When filing a bug report, it's important to include:
 - the expected outcome (a description of what you think should have happened)
