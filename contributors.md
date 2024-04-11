@@ -1,4 +1,4 @@
-* OSACC Github session contributors directory *
+*_OSACC Github session contributors directory_*
 
 Feel free to add an entry if you want to share something about yourself.  Just for fun :)
 
