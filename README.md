@@ -48,6 +48,9 @@ When filing a feature request, it's important to include:
 ## Submitting a pull request to resolve an issue
 
 ### Make a copy of the project to your own GitHub account by forking the project
+Click the "Fork" button on the top right of the project page to make a copy of the project to your own GitHub account.
+
+![Fork button to click for the project](./images/fork.png)
 
 ### Upload your changes by pushing to your remote repository
 
