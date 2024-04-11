@@ -50,6 +50,9 @@ Why edit your code in the browser?
     - Privacy: Concerned about the privacy and security risks associated with downloading to your personal device? Working in the browser may be the route for you!
     - Sustainability: You can turn off the VM, which both saves energy and potentially saves you money (learn more below)
 
+How to edit/link files through Gitpod:
+Gitpod is an application that allows users to open and edit Git repositories on the go without local downloads. To start, register and link you Gitpod account to your Github here: https://www.gitpod.io/. Once completed, you will be asked to input the link to your Git repository and desired code editor. And now, you are free to edit on the go with anything!
+
 ## Submitting a pull request to resolve an issue
 
 ### Make a copy of the project to your own GitHub account by forking the project
