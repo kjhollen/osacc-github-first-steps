@@ -52,3 +52,8 @@ When filing a feature request, it's important to include:
 ### Upload your changes by pushing to your remote repository
 
 ### Ask for your changes to be added to the project with a pull request
+
+
+---
+Other pages:
+* [Contributors page](docs/contributors.md)
