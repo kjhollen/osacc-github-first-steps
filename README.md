@@ -47,6 +47,38 @@ Issue templates are useful for making sure users add required information to bug
 ### Saving changes to your code on your computer
 
 ### Editing files in the browser
+Why edit your code in the browser?
+
+ - Convenience: Modify your code from virtually any device! If you're using a public computer, own a device without the bandwidth to download the project or simply want to use smaller devices like iPads and tablets, coding from the web may be for you.
+   - As a bonus, everything autosaves on the web, so feel free to step away and return to your project without fear of losing your hard work!
+ - Privacy: Concerned about the privacy and security risks associated with downloading to your personal device? Working in the browser may be the route for you!
+ - Sustainability: You can turn off the VM, which both saves energy and potentially saves you money (learn more below)
+
+Many users will want simply leverage GitHub's built in online code editor called Codespaces. Simply click on Code
+
+![Screenshot showing where to click on code](webeditor_1.png).
+
+Click Codespaces
+
+![Screenshot showing where to click on codespaces](webeditor_2.png).
+
+Make a new environment (either click the plus or the large green button)
+
+![Screenshot showing where to click to make a new environment](webeditor_3.png).
+
+In addition to Codespaces, you may interact with repositories outside GitHub and Gitpod is similarly an application that allows users to open and edit Git repositories on the go without local downloads. To start, register and link you Gitpod account to your Github here: https://www.gitpod.io/. Once completed, you will be asked to input the link to your Git repository and desired code editor. And now, you are free to edit on the go with anything!
+
+In either case, the code editor is running a full fledged machine in the cloud! If you click on terminal at the bottom of the screen, you can even execute commands.
+
+When you are ready to send up your changes, you can open a new branch
+
+![Screenshot pointing to where a new branch can be created](webeditor_4.jpg).
+
+Then, make a commit on the left side of the screen.
+
+![Screenshot pointing to where commits can be submitted](webeditor_5.jpg).
+
+When you are done, click on codespaces (or equivalent) in the bottom left to and click "Stop Current Codespace" or "Stop Current VM" to turn off the machine in the cloud that is running your code editor. You can come back to it later! However, after some time (a few days) it will be deleted.
 
 ## Submitting a pull request to resolve an issue
 
