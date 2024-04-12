@@ -113,3 +113,6 @@ In the "head fork" dropdown menu, select your fork, then use the "compare branch
 Type a title and description for your pull request.
 On user-owned forks, if you want to allow anyone with push access to the upstream repository to make changes to your pull request, select Allow edits from maintainers.
 To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request. 
+
+## Contributors to this document
+* [Contributors page](docs/contributors.md)
